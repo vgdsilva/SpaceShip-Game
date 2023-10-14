@@ -6,3 +6,9 @@ Requisitos do jogo
  - Tela de gameover.
  - No minimo 2 fases.
  - Som no jogo.
+
+
+
+
+Tutotiais:
+ - https://www.youtube.com/watch?v=q74gQwMZ79o
